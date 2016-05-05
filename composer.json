@@ -1,0 +1,25 @@
+{
+    "name": "chandzul/database",
+    "description": "Connection to database for use in packages composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Chan",
+            "email": "dchandzul@gmail.com",
+            "homepage": "http://chandzul.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "vlucas/phpdotenv": "^2.2",
+        "tightenco/collect": "^5.2"
+    },
+    "autoload": {
+        "files": [
+            "src/Support/helpers.php"
+        ],
+        "psr-4": {
+            "Chandzul\\Database\\": "src/"
+        }
+    }
+}

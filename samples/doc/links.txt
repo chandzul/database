@@ -1,0 +1,14 @@
+http://entredesarrolladores.com/3936/como-subir-proyecto-ya-hecho-a-github
+
+
+https://mattstauffer.co/blog/environment-specific-configuration-for-craftcms-using-phpdotenv
+https://github.com/vlucas/phpdotenv
+
+
+https://github.com/mattstauffer/craftPluginDevHelpers
+
+https://github.com/laravel/framework
+https://github.com/laravel/framework/blob/5.2/src/Illuminate/Support/helpers.php
+
+
+https://github.com/chandzul
